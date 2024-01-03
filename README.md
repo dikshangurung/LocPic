@@ -1,3 +1,3 @@
-# React Native project
+# React Native expo project (mobile app)
 # npm install
 # npm start
