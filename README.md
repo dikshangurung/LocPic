@@ -1,4 +1,4 @@
-# React Native expo project (mobile app)
+# React Native expo project 
 # npm install
 # npm start
 # Technologies used:
